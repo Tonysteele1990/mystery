@@ -31,6 +31,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'carrierwave', '~> 1.0'
+gem 'figaro'
+gem 'fog'
+gem 'aws-sdk', '~> 2.3'
 gem 'faker', :git => 'git://github.com/stympy/faker.git', :branch => 'master'
 
 # Use Capistrano for deployment
